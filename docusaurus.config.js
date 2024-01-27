@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'img/buho.png',
+          src: 'img/buho.svg',
         },
         items: [
           // {
